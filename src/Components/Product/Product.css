@@ -1,0 +1,17 @@
+.product{
+    display: flex;
+    border-bottom: 3px solid orange;
+    margin-right: 11px;
+    margin-left: 5px;
+    padding-bottom: 9px;
+
+}
+.product-name{
+    color: blueviolet;
+}
+.main-button{
+    width: 150px;
+    height: 35px;
+    background-color: crimson;
+    border-radius: 9px;
+}
